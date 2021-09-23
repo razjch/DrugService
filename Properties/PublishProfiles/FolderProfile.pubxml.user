@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-09-21T04:10:06.4771875Z;False|2021-09-21T09:53:10.6010499+05:45;True|2021-09-20T12:29:47.7963540+05:45;True|2021-09-20T12:24:44.7254482+05:45;True|2021-09-17T16:57:37.1145119+05:45;True|2021-09-17T13:21:52.0240875+05:45;True|2021-09-16T14:42:59.7540253+05:45;</History>
+  </PropertyGroup>
+</Project>

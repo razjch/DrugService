@@ -1,0 +1,186 @@
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\appsettings.Development.json
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\appsettings.json
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.exe
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.deps.json
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.json
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.dev.json
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\ref\DrugsAPI.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\DrugsAPI.pdb
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.AssemblyReference.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfoInputs.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfo.cs
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CoreCompileInputs.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.Manifest.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.xml
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\scopedcss\bundle\DrugsAPI.styles.css
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.RazorTargetAssemblyInfo.cache
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CopyComplete
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.dll
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\ref\DrugsAPI.dll
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.pdb
+G:\VSCODE PROJECTS\DrugsAPI\obj\Debug\net5.0\DrugsAPI.genruntimeconfig.cache
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\VSCODE PROJECTS\DrugsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.exe
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.deps.json
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.json
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.dev.json
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\ref\DrugsAPI.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\DrugsAPI.pdb
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Razj\Downloads\DrugsAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.AssemblyReference.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfoInputs.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfo.cs
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.xml
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\scopedcss\bundle\DrugsAPI.styles.css
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CopyComplete
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.dll
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\ref\DrugsAPI.dll
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.pdb
+C:\Users\Razj\Downloads\DrugsAPI\obj\Debug\net5.0\DrugsAPI.genruntimeconfig.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.exe
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.deps.json
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.json
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.runtimeconfig.dev.json
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\ref\DrugsAPI.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\DrugsAPI.pdb
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.AssemblyReference.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfoInputs.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.AssemblyInfo.cs
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CoreCompileInputs.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.Manifest.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\staticwebassets\DrugsAPI.StaticWebAssets.xml
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\scopedcss\bundle\DrugsAPI.styles.css
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.csproj.CopyComplete
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\ref\DrugsAPI.dll
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.pdb
+C:\Users\Razj\Desktop\Project\DrugsAPI\obj\Debug\net5.0\DrugsAPI.genruntimeconfig.cache
