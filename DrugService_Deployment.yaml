@@ -1,0 +1,35 @@
+﻿
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drugservice
+  labels:
+    app: drugservice
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: drugservice
+  template:
+    metadata:
+      labels:
+        app: drugservice
+    spec:
+      containers:
+      - name: drugservice
+        image: mailorderpharmacy.azurecr.io/drugserviceimage:latest
+        ports:
+        - containerPort: 80
+      imagePullSecrets:
+      - name: drugservicesecret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: drugservice-service
+spec:
+ type: LoadBalancer
+ ports:
+ - port: 80
+ selector:
+   app: drugservice

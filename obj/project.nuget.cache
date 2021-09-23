@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "V7WewUAnBJYZ48sK42BPBX2CbDfPwjkAKds6w7sO5fgBK+ylPVqZjLQj/hNxg6Og+9FQK4bQs/zLnQ+RepG8hg==",
+  "dgSpecHash": "M81LzPvrFwSpfHvREibLzMH5ozZuyza1dFYtnJWnWnZ+2evdoNmPO2Eq5qC3E8DJbaPSMsJ7ePQo4L5m5NnsZQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Razj\\Desktop\\Project\\DrugsAPI\\DrugsAPI.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Users\\Razj\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\Razj\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\Razj\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Razj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\Razj\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\Razj\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Razj\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
